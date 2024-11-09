@@ -1,0 +1,11 @@
+FlightNum,CarrierName,Origin,Destination,ScheduledTravelTime,ActualTravelTime,Discrepancy,CarrierCode
+2147,Air France,DFW,MIA,46800,55800,9000,AF
+7080,British Airways,SFO,ATL,50400,59340,8940,BA
+1920,Delta Airlines,ATL,DEN,54000,62940,8940,DL
+4002,Qantas,MIA,SEA,25200,34140,8940,QF
+3255,Lufthansa,JFK,MIA,46800,37920,8880,LH
+1003,American Airlines,LAX,DEN,54000,45240,8760,AA
+8537,Emirates,SEA,DEN,10800,2040,8760,EK
+5825,Singapore Airlines,DFW,JFK,32400,23640,8760,SQ
+9586,Southwest Airlines,SFO,ATL,18000,26760,8760,SW
+9348,United Airlines,SEA,ORD,46800,38280,8520,UA
